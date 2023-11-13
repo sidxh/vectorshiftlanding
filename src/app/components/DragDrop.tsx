@@ -70,7 +70,7 @@ const DragDrop = ()  => {
                     <div className='w-full bg-white h-full p-6 text-black rounded-md'>
                         <p className='text-sm font-bold'>Model</p>
                         <p className='text-sm font-bold'>gpt-3.5-turbo</p>
-                        <p className='text-xs text-gray-800 my-4 '>Describe the AI's role in "system". Enter your prompt into "prompt:</p>
+                        <p className='text-xs text-gray-800 my-4 '>Describe the AI&apos;s role in &quot;system&quot;. Enter your prompt into &quot;prompt1&quot;</p>
                         <p className='text-sm font-bold'>Use Personal API Key</p>                        
                     </div>               
             </motion.div>
